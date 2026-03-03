@@ -1,5 +1,4 @@
 # 🚀 Backend Engineer | Authentication & System Design | Minseok
-### Backend Developer
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Building%20Reliable%20Backend%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn)
 
@@ -7,21 +6,22 @@
 
 ## 💡 About Me
 
-I design and build backend systems with a focus on:
+다음과 같은 영역에 관심을 두고 백엔드 시스템을 설계하고 구현하고 있습니다.
 
-- Authentication & Authorization (JWT / Token Flow)
-- Redis-based token management
-- API stability & exception handling
-- Transaction & concurrency control
+- 인증 및 인가 시스템 설계 (JWT 기반)
+- Redis를 활용한 토큰 관리
+- API 안정성 개선 및 예외 처리 구조화
+- 트랜잭션 및 동시성 제어
 
-I care about writing reliable code and continuously improving through problem solving.
+문제를 해결하는 과정을 기록하며,  
+안정적인 서버를 만드는 개발자로 성장하고 있습니다.
 
-📫 **Email** : minseokgyang@gmail.com  
-📝 **Blog** : https://codingminseok.tistory.com/
+📫 이메일 : minseokgyang@gmail.com  
+📝 블로그 : https://codingminseok.tistory.com/
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 통계 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minseokgyang&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
@@ -30,14 +30,14 @@ I care about writing reliable code and continuously improving through problem so
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ### 🔹 Backend
 ![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🔹 Frontend (Basic)
+### 🔹 Frontend (기초)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,36 +50,24 @@ I care about writing reliable code and continuously improving through problem so
 
 ---
 
-## 🔐 Focus Areas
+## 🔐 집중 분야
 
-- Designing secure authentication systems
-- Access / Refresh token separation strategy
-- Redis TTL-based session control
-- Handling lost update & concurrency issues
-- Improving API reliability with structured error handling
-
----
-
-## 🎯 Growth Goal
-
-- Weekly technical writing on blog
-- Consistent GitHub contribution
-- Building production-ready backend services
+- Access / Refresh 토큰 분리 설계
+- Redis 기반 토큰 수명 관리 (TTL 제어)
+- 트랜잭션 처리 및 동시성 문제 해결
+- 예외 처리 구조 개선을 통한 API 안정성 확보
 
 ---
 
----
+## 🎯 성장 목표
 
-## 🔐 Focus
-
-- Authentication system design (Access / Refresh token separation)
-- Redis-based token lifecycle management (TTL control)
-- Transaction handling & concurrency control
-- API reliability improvement & structured exception handling
+- 주 1회 이상 기술 블로그 작성
+- 꾸준한 GitHub 커밋 유지
+- 실제 서비스 수준의 백엔드 시스템 구축
 
 ---
 
-## 🔗 Links
+## 🔗 링크
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-0F172A?style=for-the-badge)](https://codingminseok.tistory.com/)
 [![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseokgyang@gmail.com)
