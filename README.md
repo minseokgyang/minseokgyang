@@ -21,12 +21,6 @@
 
 ---
 
-## 📊 GitHub 통계 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minseokgyang&theme=github-dark)
-
----
-
 ## 🛠 기술 스택
 
 ### 🔹 Backend
@@ -61,6 +55,12 @@
 - 주 1회 이상 기술 블로그 작성
 - 꾸준한 GitHub 커밋 유지
 - 실제 서비스 수준의 백엔드 시스템 구축
+
+---
+
+## 📊 GitHub 통계 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minseokgyang&theme=github-dark)
 
 ---
 
