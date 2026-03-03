@@ -17,7 +17,7 @@
 안정적인 서버를 만드는 개발자로 성장하고 있습니다.
 
 📫 이메일 : minseokgyang@gmail.com  
-📝 블로그 : https://codingminseok.tistory.com/
+📝 블로그 : https://velog.io/@msyang09/posts
 
 ---
 
@@ -66,5 +66,5 @@
 
 ## 🔗 링크
 
-[![Blog](https://img.shields.io/badge/Tech%20Blog-0F172A?style=for-the-badge)](https://codingminseok.tistory.com/)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-0F172A?style=for-the-badge)](https://velog.io/@msyang09/posts)
 [![Email](https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseokgyang@gmail.com)
