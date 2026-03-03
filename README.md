@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Minseok Yang  
+# 🚀 Backend Engineer | Authentication & System Design | Minseok
 ### Backend Developer
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Building%20Reliable%20Backend%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn)
