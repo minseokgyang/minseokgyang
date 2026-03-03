@@ -76,10 +76,8 @@
 
 ---
 
-## 📊 GitHub 통계 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minseokgyang&theme=github-dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=minseokgyang)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minseokgyang&theme=github-dark)
 
 ---
 
