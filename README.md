@@ -27,18 +27,36 @@
 ![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1D4ED8?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
 
 ### 🔹 Frontend (기초)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔹 Infra & Tools
+---
+
+### 🔹 Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1D4ED8?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 🔹 Infra & DevOps
 ![Redis](https://img.shields.io/badge/Redis-0F172A?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+---
+
+### 🔹 협업 및 CI/CD
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white)
 ---
 
 ## 🔐 집중 분야
