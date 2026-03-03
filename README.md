@@ -33,5 +33,5 @@ Hello, I'm **Minseok Yang**, an aspiring backend developer who wants to dream of
 ###
 💻 **Stat**
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokgyang&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=minseokgyang&show_icons=true&theme=radical)
 ###
