@@ -23,10 +23,7 @@
 
 ## 📊 GitHub 통계 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minseokgyang&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseokgyang&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minseokgyang&theme=github-dark)
 
 ---
 
