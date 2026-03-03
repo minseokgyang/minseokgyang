@@ -33,5 +33,5 @@ Hello, I'm **Minseok Yang**, an aspiring backend developer who wants to dream of
 ###
 💻 **Stat**
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseokgyang&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseokgyang&layout=compact&theme=radical)
 ###
